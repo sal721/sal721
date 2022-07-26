@@ -15,7 +15,7 @@
 
 ##
 
-<img alt="choubari" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
+<img alt="Salem" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
 <samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Web & Mobile Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco 🇲🇦)</i> and chair of 
 <a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp>
 
@@ -58,7 +58,7 @@
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
  <a href="https://getbootstrap.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/cat/bootstrap.png" width="50">
+<img alt="choubari" src="https://devstickers.com/assets/img/cat/bootstrap.png" width="40"> 
   </a>
 <a href="https://www.adobe.com/products/photoshop.html">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
