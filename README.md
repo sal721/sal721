@@ -1,6 +1,5 @@
 ### Hi there It's SAL👋
 
-<!--
 **sal721/sal721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Feel free to Ask me about anything
 - 📫 How to reach me: salemali721@gmail.com 
 - 😄 Pronouns:He / Him 
--->
+
