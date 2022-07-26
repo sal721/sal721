@@ -7,7 +7,6 @@
 - 💬 Feel free to Ask me about anything
 - 📫 How to reach me: salemali721@gmail.com 
 - 😄 Pronouns:He / Him 
-- 😂 Joke: 
 
 
 
@@ -16,8 +15,8 @@
 ##
 
 <img alt="Salem" align="right" src="https://devstickers.com/assets/img/pro/wq5o.png" width="100">
-<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Kawtar CHOUBARI</b>, a Web & Mobile Engineering Student from ENSIAS <i>(National School of Computer Science in Rabat, Morocco 🇲🇦)</i> and chair of 
-<a href="https://ieee-ensias.tech/">IEEE ENSIAS Student Branch</a>. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp>
+<samp><p align=”justify” style="text-indent:40px;"> I'm <b>Salem Sulaiman</b>, a Software Engineering Student from Yemen <i>(UTM in Faculty of Computer Science in Johor Bahru, Malaysia)</i>
+. I'm a highly motivated person, dynamic, persevering and rigorous. Ready to learn new skills and start new adventures.</p></samp>
 
 ##
 
@@ -69,16 +68,6 @@
 </p>
 
 ##
-
-<img alt="choubari" align="left" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="250">
-<img align="right" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=choubari&show_icons=true&hide_border=true&count_private=true"/>
-
-<!--
-- :trophy: **My GitHub trophies :**  ![Trophies](https://github-profile-trophy.vercel.app/?username=choubari)
--->
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
