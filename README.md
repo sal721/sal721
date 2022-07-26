@@ -30,7 +30,10 @@
  <a href="https://www.android.com/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
  </a>
- <a href="https://www.python.org/">
+ <a href="https://en.wikipedia.org/wiki/C%2B%2B">
+<img alt="choubari" src="[https://devstickers.com/assets/img/pro/p3jo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/120px-ISO_C%2B%2B_Logo.svg.png)" width="40">
+ </a>
+  <a href="https://www.python.org/">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
