@@ -58,7 +58,7 @@
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
  <a href="https://getbootstrap.com/">
-<img alt="choubari" src="https://devstickers.com/assets/img/cat/bootstrap.png" width="60">
+<img alt="choubari" src="https://devstickers.com/assets/img/cat/bootstrap.png" width="50">
   </a>
 <a href="https://www.adobe.com/products/photoshop.html">
 <img alt="choubari" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
